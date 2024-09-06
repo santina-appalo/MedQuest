@@ -1,5 +1,4 @@
 # MedQuest
-# Healthcare Management System
 
 ## Overview
 
